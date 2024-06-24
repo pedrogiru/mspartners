@@ -4,7 +4,286 @@
         "type": "Ótica",
         "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/AJNA-3OWM3F.png",
         "name": "Óticas Diniz Tramandai",
-        "address": "Av. Fernandes Bastos, 348 - Centro, Tramandaí - RS,",
+        "address": "Av. Fernandes Bastos, 348 - Centro, Tramandaí - R,",
         "phone": "(51) 2145-3079"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Ótica",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/mercadaodosoculos.png",
+        "name": "Mercadão dos Óculos",
+        "address": "Av. Emancipação, 788 - Centro, Tramandaí - RS",
+        "phone": "(51) 99732-0148"
+    },{
+        "city": "Osório",
+        "type": "Ótica",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/mercadaodosoculos.png",
+        "name": "Mercadão dos Óculos",
+        "address": "R. Machado de Assis, 423 - Centro, Osório - RS",
+        "phone": "(51) 99732-0107"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Farmácia",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/AJNA-3OWM3F.png",
+        "name": "Agafarma",
+        "address": "Av. Emancipação, 999 - Centro, Tramandaí - RS",
+        "phone": "(51) 3661-1111"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Farmácia",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/maxxieconomica.png",
+        "name": "Maxxi Econômica",
+        "address": "Todas as Unidades do Rio Grande do Sul",
+        "phone": "(51) 99107-4079"
+    },
+    {
+        "city": "Osório",
+        "type": "Educação",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/mindglasses.png",
+        "name": "Mind Glasses Osório",
+        "address": "R. Machado de Assis, 115 - Centro, Osório - RS",
+        "phone": "(51) 3601-1701"
+    },
+    {
+        "city": "Osório",
+        "type": "Ótica",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/relicario.png",
+        "name": "Otica Relicário",
+        "address": "R. Machado de Assis, 282 - Centro, Osório - RS",
+        "phone": "(51) 99688-3535"
+    },
+    {
+        "city": "Capão da Canoa",
+        "type": "Parque Aquatico",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/acqualokos.png",
+        "name": "Acqua Lokos",
+        "address": "Estrada do Mar Km 50, Capão da Canoa - RS",
+        "phone": "(51) 99913-2379"
+    },
+    {
+        "city": "Osório",
+        "type": "Segurança",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/litoralalarmes.png",
+        "name": "Litoral Alarmes",
+        "address": "Estrada do Mar Km 50, Capão da Canoa - RS",
+        "phone": "(51) 99913-2379"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Suplementos",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/AJNA-3OWM3F.png",
+        "name": "Nutrisport",
+        "address": "Av. Fernandes Bastos, 3070 - RECANTO DA LAGOA, Tramandaí - RS",
+        "phone": "(51) 99916-4756"
+    },
+    {
+        "city": "Osório",
+        "type": "Estética Automotiva",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/vipcar.png",
+        "name": "Vip Car",
+        "address": "Av. Getúlio Vargas, 1478 - Centro, Osório - RS",
+        "phone": "(51) 99617-0355"
+    },
+    {
+        "city": "Osório",
+        "type": "Alimentação",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/spaco.png",
+        "name": "Taberu Sushi",
+        "address": "Av. Fernandes Bastos, 3070 - RECANTO DA LAGOA, Tramandaí - RS",
+        "phone": "(51) 98579-0567"
+    },
+    {
+        "city": "Imbé",
+        "type": "Alimentação",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/shekinah.png",
+        "name": "Padaria Shekinah",
+        "address": "Av. Osório, 1030 - Centro, Imbé - RS",
+        "phone": "(51) 3627-3949"
+    },
+    {
+        "city": "Osório",
+        "type": "Alimentação",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/alabama.png",
+        "name": "Alabama Frangos Fritos",
+        "address": "Av. Jorge Dariva, 1104 - Sala 1 - Centro, Osório - RS",                     
+        "phone": "(51) 99824-3637"
+    },
+    {
+        "city": "Osório",
+        "type": "Exercício",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/spaco.png",
+        "name": "Spaço Cida Santos",
+        "address": "Av. Marcílio Dias, 2866 - Albatroz, Osório - RS",
+        "phone": "(51) 99845-1525"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Exercício",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/artevida.png",
+        "name": "Academia Arte Vida",
+        "address": "Av. Fernandes Bastos, 3500 - Cruzeiro do Sul 2, Tramandaí - RS",
+        "phone": "(51) 3684-2856"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Farmácia",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/AJNA-3OWM3F.png",
+        "name": "Farmácia Fórmula da Praia",
+        "address": "Av. Emancipação, 965 - Tramandaí, RS",
+        "phone": "(51) 99367-1684"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Farmácia",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/alecrim.png",
+        "name": "Farmácia Alecrim ",
+        "address": "Av. Emancipação, 1011 - Tramandaí, RS",
+        "phone": "(51) 3684-1450"
+    },
+    {
+        "city": "Osório",
+        "type": "Farmácia",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/pharmaderm.png",
+        "name": "Farmácia Pharmaderm",
+        "address": "R. Mal. Floriano Peixoto, 764 - Centro, Osório - RS",
+        "phone": "(51) 99989-1342"
+    },
+    {
+        "city": "Osório",
+        "type": "Farmácia",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/multimisturas.png",
+        "name": "Multi Misturas Manipulação",
+        "address": "Av. Paraguassú, 1351 - Centro, Imbé - RS",
+        "phone": "(51) 98583-8043"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Informática",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/mix.png",
+        "name": "Mix Informática",
+        "address": "Av. Fernandes Bastos, 447 - Tramandaí, RS",
+        "phone": "(51) 3684-3880"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Informática",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/connectacessorios.png",
+        "name": "Connect Acessórios",
+        "address": "R. Mal. Floriano Peixoto, 860 - Centro, Osório - RS",
+        "phone": "(51) 99780-2577"
+    },
+    {
+        "city": "Osório",
+        "type": "Petshop",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/dinanda.png",
+        "name": "Estética Pet Dinanda",
+        "address": "Av. Brasil, 286 - Porto Lacustre, Osório - RS",
+        "phone": "(51) 98537-5129"
+    },
+    {
+        "city": "Osório",
+        "type": "Chimarrão",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/querenciadascuias.png",
+        "name": "Querência das cuias",
+        "address": "Av. Emancipação, 500 - Tramandaí, RS",
+        "phone": "(51) 98241-4078"
+    },
+    {
+        "city": "Capão da Canoa",
+        "type": "Concessionária",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/shineray.png",
+        "name": "Shineray",
+        "address": "Av. Martinho J. Espíndola, 1123 - Capão da Canoa, RS",
+        "phone": "(51) 98021-4528"
+    },
+    {
+        "city": "Osório",
+        "type": "Concessionária",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/shineray.png",
+        "name": "Shineray",
+        "address": "Av. Getúlio Vargas, 1123 - Centro, Osório - RS",
+        "phone": "(51) 98021-4528"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Moda",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/melania.png",
+        "name": "Melania",
+        "address": "Av. Emancipação, 446 - Tramandaí - RS",
+        "phone": "@melaniaconcept"
+    },
+    {
+        "city": "Tramandaí",
+        "type": "Moda",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/AJNA-3OWM3F.png",
+        "name": "Reggla",
+        "address": "Av. Fernandes Bastos, 437 Tramandaí - Rs,",
+        "phone": "(51) 99941-6063"
+    },
+    {
+        "city": "Osório",
+        "type": "Moda",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/AJNA-3OWM3F.png",
+        "name": "Reggla",
+        "address": "Av. Marechal Floreano Peixoto, 853 - Osório - Rs",
+        "phone": "(51) 3663-6335"
+    },
+    {
+        "city": "Osório",
+        "type": "Moda",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/AJNA-3OWM3F.png",
+        "name": "Vem Vestida",
+        "address": "Rua Costa Gama, 500 - Osório - Rs",
+        "phone": "(51) 98557-5945"
+    },
+    {
+        "city": "Osório",
+        "type": "Moda",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/AJNA-3OWM3F.png",
+        "name": "Vem Vestida",
+        "address": "Rua Costa Gama, 500 - Osório - Rs",
+        "phone": "(51) 98557-5945"
+    },
+    {
+        "city": "Osório",
+        "type": "Acessórios",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/dimylla.png",
+        "name": "Dy Mylla ",
+        "address": "Loja Online http://dymylla.com.br/",
+        "phone": "(51) 99857-9137"
+    },
+    {
+        "city": "Osório",
+        "type": "Beleza",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/brilhoebeleza.png",
+        "name": "Brilho & Beleza",
+        "address": " R. Cel. Reduzino Pachêco, 1127 - Osório - Rs",
+        "phone": "(51) 99306-2773"
+    },
+    {
+        "city": "Osório",
+        "type": "Chaveiro",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/josiel.png",
+        "name": "Josiel Chaveiro",
+        "address": "Rua Costa Gama, 392 - Osório - Rs",
+        "phone": "(51) 9992-9639"
+    },
+    {
+        "city": "Osório",
+        "type": "Floricultura",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/daterra.png",
+        "name": "Da Terra",
+        "address": "Rua Machado de Assis, 1087 - Osório - Rs",
+        "phone": "(51) 3663-2550"
+    },
+    {
+        "city": "Osório",
+        "type": "Produtos Ortopédicos",
+        "logo": "https://promo.cartaoms.com.br/arraial/wp-content/uploads/2024/06/fisioclin.png",
+        "name": "Fisioclin",
+        "address": "Av. Getúlio Vargas, 531 - Centro, Osório - RS",
+        "phone": "(51) 99569-4133"
     }
 ]
